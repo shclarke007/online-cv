@@ -2,8 +2,6 @@ sidebar:
     position: right
     about: False
     education: True
-    certifications: True
-    skills: True
 
     name: Shaneil Clarke
     tagline: Technology Professional | 10+ Years in Software Dev, Technical Support, and Customer Service
@@ -12,7 +10,7 @@ sidebar:
     email: shaneilske@outlook.com
     timezone: BST
     citizenship: Jamaican / British
-    website: [Personal website] (https://shclarke007.github.io/clarkesh/)
+    website: <a href="https://shclarke007.github.io/clarkesh/">Personal Website</a>
     linkedin: shaneil-c-85284568
     github: clarkesh007
 
@@ -21,15 +19,9 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
-    interests:
-      title: Interests
-      info:
-        - item: IP Law
-        - item: Customer Support and Service
-
-     skills:
-      title: Skills
+          
+    skills:
+      title: skills
       info:
         - item: Problem Analysis
         - item: Technical Support
@@ -37,7 +29,13 @@ sidebar:
         - item: Time Management
         - item: Legal Research
         - item: Communication
-
+    
+    interests:
+      title: Interests
+      info:
+        - item: IP Law
+        - item: Client Support and Service
+      
     certifications:
       title: Certifications
       info:
