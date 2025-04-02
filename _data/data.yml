@@ -30,8 +30,8 @@ career-profile:
     title: Professional Summary
     summary: |
       Technology professional with over 10 years of experience in software development, technical support, and customer service. Proven expertise in working in cross-collaborative technical teams, time management of complex projects, and driving software releases. Adept at on-site, remote or hybrid team working, technical integrations, and troubleshooting. Committed to continuous learning and providing innovative solutions.
-      - **Software, Web & Mobile Development:** Ruby, Rails, JavaScript, HTML, CSS, Websockets, REST APIs, Web Development.
-      - **Tools & Platforms:** Jira, Postman, Git, Docker, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
+      - **Software & Web Development:** Ruby, Rails, JavaScript, HTML, CSS, Websockets, REST APIs, Web Development.
+      - **Tools & Platforms:** Jira, Postman, Git, Docker, PostgreSQL, Amazon Web Services.
       - **Technical Communication & Collaboration:** Technical Communication, Teamwork, Customer Service and Problem Solving.
       - **Release & Project Management:** Release Management, Scrum and Agile.
 
@@ -45,27 +45,29 @@ education:
           Specialising in Law such as Tort, Criminal, English Legal System, Contract, Equity and Trusts, Administrative and Human Rights, Business and Land law, utilising a range of skills such as critical thinking, statutory interpretation and legal research.
       - degree: BSc (Hons) in Computing
         university: Arden University
-        time: 2019 - 2021
+        time: 2018 - 2021
         details: |
           Specialised in Computing such as Networking, Programming, Database Design, Cyber Security and e-Commerce Systems, utilising a range of tools and programming languages such as PHP, MySQL, HTML and CSS.
+      - degree: Foundation Degree in Computing
+        university: The Open University
 
 experiences:
     title: Work Experience
     info:
-      - role: Virtual Vacation Scheme Participant
+      - role: Winter Virtual Vacation Scheme
         time: Dec 2024 - Dec 2024
         company: Legal Cheek, Remote
         details: |
-            - **Achievements:** Successfully completed a series of practice area-focused workshops in Reputation Management, Competition, Employment, Restructuring, Technology and Gaming Law
+            - **Achievements:** Successfully completed a week-long series of practice area-focused workshops in Reputation Management, Competition, Employment, Restructuring, Technology and Gaming Law
 
       - role: Software Engineer (Backend)
         time: Nov 2023 - Sep 2024
         company: Accredible, Remote
         details: |
-          - ***Release Management:*** Build it, ship it daily or weekly software releases for backend.
-          - ***Technical Support:*** Participated in technical support rota, investigating bugs, and implementing fixes, ensuring high customer satisfaction.
-          - ***Technical Integration:*** Connected and managed Learning Management Systems (LMS) with the Accredible platform and API using built-in LTI (versions 1.1 and 1.3) and other integrations to improve system features and user experience.
-          - ***Achievements:*** Successfully added clone and custom attribute search to public API to improve .
+          - **Release Management:** Build it, ship it daily or weekly software releases for backend.
+          - **Technical Support:** Participated in technical support rota, investigating bugs, and implementing fixes, ensuring high customer satisfaction.
+          - **Technical Integration:** Connected and managed Learning Management Systems (LMS) with the Accredible platform and API using built-in LTI (versions 1.1 and 1.3) and other integrations to improve system features and user experience.
+          - **Achievements:** Successfully added clone and custom attribute search to public API to improve .
 
       - role: Software Engineer (Fullstack)
         time: Oct 2019 - Oct 2023
@@ -100,5 +102,22 @@ experiences:
           - Carried out operational duties with respect to local servers, and the network infrastructure and assisting in managing the backups.
 
 skills:
+    title: Skills
+      info:
+        - item: Problem Analysis
+        - item: Technical Support
+        - item: ICT
+        - item: Time Management
+        - item: Legal Research
+        
+skills:
+    title: Certifications
+      info:
+        - degree: Legal Research Foundation Certificate
+          university: LexisNexis Legal
+          time: 2025 
+        - degree: AWS Certified Cloud Practitioner
+          university: AWS
+          time: 2021 (Expired) 
 
 footer: 
