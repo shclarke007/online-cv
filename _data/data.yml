@@ -8,9 +8,8 @@ sidebar:
     avatar: profile.png
 
     email: shaneilske@outlook.com
-    phone: +34 636175744
     timezone: BST
-    citizenship: British
+    citizenship: Jamaican / British
     website: https://shclarke007.github.io/clarkesh/
     linkedin: shaneil-c-85284568
     github: clarkesh
@@ -25,11 +24,12 @@ sidebar:
       title: Interests
       info:
         - item: IP Law
+        - item: Customer Support and Service
 
 career-profile:
     title: Professional Summary
     summary: |
-      Technology professional with over 10 years of experience in software development, technical support, and customer service. Proven expertise in working in cross-collaborative technical teams, time management of complex projects, and driving software releases. Adept at remote or hybrid team working, technical integrations, and troubleshooting. Committed to continuous learning and providing innovative solutions.
+      Technology professional with over 10 years of experience in software development, technical support, and customer service. Proven expertise in working in cross-collaborative technical teams, time management of complex projects, and driving software releases. Adept at on-site, remote or hybrid team working, technical integrations, and troubleshooting. Committed to continuous learning and providing innovative solutions.
       - **Software, Web & Mobile Development:** Ruby, Rails, JavaScript, HTML, CSS, Websockets, REST APIs, Web Development.
       - **Tools & Platforms:** Jira, Postman, Git, Docker, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
       - **Technical Communication & Collaboration:** Technical Communication, Teamwork, Customer Service and Problem Solving.
@@ -43,7 +43,7 @@ education:
         time: 2025 - present
         details: |
           Specialising in Law such as Tort, Criminal, English Legal System, Contract, Equity and Trusts, Administrative and Human Rights, Business and Land law, utilising a range of skills such as critical thinking, statutory interpretation and legal research.
-      - degree: BSc(Hons) in Computing
+      - degree: BSc (Hons) in Computing
         university: Arden University
         time: 2019 - 2021
         details: |
@@ -52,53 +52,52 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Operations Support Manager
-        time: Nov 2022 - Aug 2024
-        company: CIRCL Technologies Ltd, Remote
+      - role: Virtual Vacation Scheme Participant
+        time: Dec 2024 - Dec 2024
+        company: Legal Cheek, Remote
         details: |
-            - **Release Management:** Oversaw and facilitated weekly software releases for backend, frontend, and mobile apps, more than 100 releases.
-            - **Technical Support:** Led the technical support team, resolving complex customer queries and issues, ensuring high satisfaction.
-            - **Technical Integration:** Managed technical integration with third party providers like Safaricom MPESA payments API and Africastalking SMS API.
-            - **Achievements:** Successfully launched CIRCL platforms in Kenya and Portugal, over 500 employees started using the app.
+            - **Achievements:** Successfully completed a series of practice area-focused workshop such as Reputation Management, Competition, Employment, Restructuring, Technology and Gaming Law
 
-      - role: Lead Technical Support Engineer
-        time: Jan 2022 - Nov 2022
-        company: Gaming Innovation Group, Remote
+      - role: Software Engineer (Backend)
+        time: Nov 2023 - Sep 2024
+        company: Accredible, Remote
         details: |
-          - Led the GiG Magic Brand Support team, supporting frontend developers for multiple igaming casino platforms, including HardrockCasino and Guts.
-          - Provided 24/7 technical support for system stability, investigated bugs, and implemented fixes to the GiG Magic API, Hubot, and Cashier Payment App.
+          - ***Release Management:*** Build it, ship it daily or weekly software releases for backend.
+          - ***Technical Support:*** Participated in technical support rota, investigating bugs, and implementing fixes, ensuring high customer satisfaction.
+          - ***Technical Integration:*** Connected and managed Learning Management Systems (LMS) with the Accredible platform and API using built-in LTI (versions 1.1 and 1.3) and other integrations to improve system features and user experience.
+          - ***Achievements:*** Successfully added clone and custom attribute search to public API to improve .
 
-      - role: Software Developer
-        time: Dec 2016 - Jan 2022
-        company: Gaming Innovation Group, Remote
+      - role: Software Engineer (Fullstack)
+        time: Oct 2019 - Oct 2023
+        company: Cutover, Hybrid
         details: |
-          - Migrated the GiG Magic backend from a monolithic architecture to microservices, enhancing scalability.
-          - Integrated new casinos into the GiG Magic API, refactored services from Node.js to Golang, and improved database performance by switching from RethinkDB to ElasticsearchDB.
+          - Built a modern application platform with an emphasis on human and machine collaboration, working across the front-end, back-end, databases, and cloud infrastructure.
+          - Collaborated with Product Managers to turn ideas into clear, well-defined user stories, ensuring the team could focus on delivering meaningful features.
 
-      - role: QA Engineer
-        time: Jul 2016 - Dec 2016
-        company: Gaming Innovation Group, Marbella, Spain
+      - role: IT Engineer
+        time: May 2017 - Nov 2018
+        company: Kriya, London, UK
         details: |
-          - Developed an end-to-end testing framework using Protractor, Cucumber, and Appium for three casino platforms.
-          - Conducted behavior-driven development and smoke testing to ensure platform reliability.
+          - Developed, documented and implemented IT best practices, leading to a noticeable improvement in customer satisfaction. 
+          - Managed the analysis of technological requirements for over five departments, ensuring their needs were met with efficient and scalable hardware and software solutions.
+          - Built, configured, deployed and troubleshoot end-user laptops, desktops, mobiles and Macs.
 
-      - role: Junior Frontend Developer
-        time: May 2016 - Jul 2016
-        company: Gaming Innovation Group, Marbella, Spain
+      - role: Senior IT Analyst
+        time: May 2015 - Apr 2017
+        company: Paul Hastings LLP, London, UK
         details: |
-          - Worked on bug fixes and feature development for AngularJS applications, ensuring better user experience across casino platforms.
+          - Investigated root causes of failures and establishing a solution or workaround for the firms’ desktops and applications, ensuring better user experience across the firm.
+          - Analysed trends associated with the user base and report potential areas of risk or reward to the management team, to minimise downtime and loss of productivity.
+          - Supported business-critical applications and 3rd party vendor packages, escalated problems as appropriate to maintain a stable and efficient IT environment.
 
-      - role: Full-stack Developer
-        time: Oct 2015 - May 2016
-        company: Symless, Reading, UK
+      - role: IT Support Analyst
+        time: Nov 2011 - Nov 2014
+        company: DLA Piper LLP, London, UK
         details: |
-          - Developed and maintained the Symless e-commerce platform using Symfony2, PHP, and JavaScript, integrating payments solutions like Stripe and PayPal.
-
-      - role: Full-stack Developer
-        time: Mar 2014 - Oct 2015
-        company: The Singular Factory, Canary Islands, Spain
-        details: |
-          - Developed web and mobile applications using Symfony2, PHP, AngularJS, and Java for various projects, including Mercadis Web, GDAPortalEmpleadoWeb, and NativeAd.
+          - Provided professional assistance to clients with hardware/software queries.
+          - Met deadlines, managed time and anticipated events which may interrupt schedules.
+          - Troubleshooting technical problems and acted as a technical expert in the delivery of key projects and mobile technologies.
+          - Carried out operational duties with respect to local servers, and the network infrastructure and assisting in managing the backups.
 
 skills:
 
