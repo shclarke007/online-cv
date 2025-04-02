@@ -1,0 +1,103 @@
+sidebar:
+    position: right
+    about: False
+    education: True
+
+    name: Adolfo Luzardo Cabrera
+    tagline: Technical Manager | 10+ Years in Software Dev, Remote Team Leadership & Release Management
+    avatar: profile.png
+
+    email: adolfoluzardocabrera@gmail.com
+    phone: +34 636175744
+    timezone: Atlantic/Canary Timezone
+    citizenship: Spanish
+    website: https://aluzardo.github.io
+    linkedin: adolfoluzardo
+    github: aluzardo
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Fintech
+        - item: Blockchain
+
+career-profile:
+    title: Professional Summary
+    summary: |
+      Seasoned technology professional with over 10 years of experience in software development, technical support, and integration management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting. Committed to continuous learning and delivering innovative solutions in dynamic environments. 
+      - **Software, Web & Mobile Development:** Node.js, Golang, PHP, JavaScript, Java, jQuery, Symfony, HTML, CSS, Websockets, REST APIs, Web Development, Mobile Applications, Android and iOS.
+      - **Tools & Platforms:** Jira, Postman, Git, Docker, Jenkins, ConfigCat, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
+      - **Technical Communication & Collaboration:** Technical Communication, Team Leadership, Teamwork, Customer Service and Problem Solving.
+      - **Release & Project Management:** Release Management, Integration Management, Scrum and Agile.
+
+education:
+    title: Education
+    info:
+      - degree: Bachelor's Degree in Telecommunications Technology Engineering
+        university: ULPGC
+        time: 2009 - 2014
+        details: |
+          Specialized in Telematics Engineering, with strong emphasis on networking, telecommunications, and software development methodologies.
+
+experiences:
+    title: Work Experience
+    info:
+      - role: Operations Support Manager
+        time: Nov 2022 - Aug 2024
+        company: CIRCL Technologies Ltd, Remote
+        details: |
+            - **Release Management:** Oversaw and facilitated weekly software releases for backend, frontend, and mobile apps, more than 100 releases.
+            - **Technical Support:** Led the technical support team, resolving complex customer queries and issues, ensuring high satisfaction.
+            - **Technical Integration:** Managed technical integration with third party providers like Safaricom MPESA payments API and Africastalking SMS API.
+            - **Achievements:** Successfully launched CIRCL platforms in Kenya and Portugal, over 500 employees started using the app.
+
+      - role: Lead Technical Support Engineer
+        time: Jan 2022 - Nov 2022
+        company: Gaming Innovation Group, Remote
+        details: |
+          - Led the GiG Magic Brand Support team, supporting frontend developers for multiple igaming casino platforms, including HardrockCasino and Guts.
+          - Provided 24/7 technical support for system stability, investigated bugs, and implemented fixes to the GiG Magic API, Hubot, and Cashier Payment App.
+
+      - role: Software Developer
+        time: Dec 2016 - Jan 2022
+        company: Gaming Innovation Group, Remote
+        details: |
+          - Migrated the GiG Magic backend from a monolithic architecture to microservices, enhancing scalability.
+          - Integrated new casinos into the GiG Magic API, refactored services from Node.js to Golang, and improved database performance by switching from RethinkDB to ElasticsearchDB.
+
+      - role: QA Engineer
+        time: Jul 2016 - Dec 2016
+        company: Gaming Innovation Group, Marbella, Spain
+        details: |
+          - Developed an end-to-end testing framework using Protractor, Cucumber, and Appium for three casino platforms.
+          - Conducted behavior-driven development and smoke testing to ensure platform reliability.
+
+      - role: Junior Frontend Developer
+        time: May 2016 - Jul 2016
+        company: Gaming Innovation Group, Marbella, Spain
+        details: |
+          - Worked on bug fixes and feature development for AngularJS applications, ensuring better user experience across casino platforms.
+
+      - role: Full-stack Developer
+        time: Oct 2015 - May 2016
+        company: Symless, Reading, UK
+        details: |
+          - Developed and maintained the Symless e-commerce platform using Symfony2, PHP, and JavaScript, integrating payments solutions like Stripe and PayPal.
+
+      - role: Full-stack Developer
+        time: Mar 2014 - Oct 2015
+        company: The Singular Factory, Canary Islands, Spain
+        details: |
+          - Developed web and mobile applications using Symfony2, PHP, AngularJS, and Java for various projects, including Mercadis Web, GDAPortalEmpleadoWeb, and NativeAd.
+
+skills:
+
+footer: 
