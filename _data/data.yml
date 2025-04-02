@@ -3,49 +3,51 @@ sidebar:
     about: False
     education: True
 
-    name: Adolfo Luzardo Cabrera
-    tagline: Technical Manager | 10+ Years in Software Dev, Remote Team Leadership & Release Management
+    name: Shaneil Clarke
+    tagline: Technology Professional | 10+ Years in Software Dev, Technical Support, and Customer Service
     avatar: profile.png
 
-    email: adolfoluzardocabrera@gmail.com
+    email: shaneilske@outlook.com
     phone: +34 636175744
-    timezone: Atlantic/Canary Timezone
-    citizenship: Spanish
-    website: https://aluzardo.github.io
-    linkedin: adolfoluzardo
-    github: aluzardo
+    timezone: BST
+    citizenship: British
+    website: https://shclarke007.github.io/clarkesh/
+    linkedin: shaneil-c-85284568
+    github: clarkesh
 
     languages:
       title: Languages
       info:
-        - idiom: Spanish
-          level: Native
         - idiom: English
-          level: Professional
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Fintech
-        - item: Blockchain
+        - item: IP Law
 
 career-profile:
     title: Professional Summary
     summary: |
-      Seasoned technology professional with over 10 years of experience in software development, technical support, and integration management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting. Committed to continuous learning and delivering innovative solutions in dynamic environments. 
-      - **Software, Web & Mobile Development:** Node.js, Golang, PHP, JavaScript, Java, jQuery, Symfony, HTML, CSS, Websockets, REST APIs, Web Development, Mobile Applications, Android and iOS.
-      - **Tools & Platforms:** Jira, Postman, Git, Docker, Jenkins, ConfigCat, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
-      - **Technical Communication & Collaboration:** Technical Communication, Team Leadership, Teamwork, Customer Service and Problem Solving.
-      - **Release & Project Management:** Release Management, Integration Management, Scrum and Agile.
+      Technology professional with over 10 years of experience in software development, technical support, and customer service. Proven expertise in working in cross-collaborative technical teams, time management of complex projects, and driving software releases. Adept at remote or hybrid team working, technical integrations, and troubleshooting. Committed to continuous learning and providing innovative solutions.
+      - **Software, Web & Mobile Development:** Ruby, Rails, JavaScript, HTML, CSS, Websockets, REST APIs, Web Development.
+      - **Tools & Platforms:** Jira, Postman, Git, Docker, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
+      - **Technical Communication & Collaboration:** Technical Communication, Teamwork, Customer Service and Problem Solving.
+      - **Release & Project Management:** Release Management, Scrum and Agile.
 
 education:
     title: Education
     info:
-      - degree: Bachelor's Degree in Telecommunications Technology Engineering
-        university: ULPGC
-        time: 2009 - 2014
+      - degree: MA Law
+        university: The University of Law
+        time: 2025 - present
         details: |
-          Specialized in Telematics Engineering, with strong emphasis on networking, telecommunications, and software development methodologies.
+          Specialising in Law such as Tort, Criminal, English Legal System, Contract, Equity and Trusts, Administrative and Human Rights, Business and Land law, utilising a range of skills such as critical thinking, statutory interpretation and legal research.
+      - degree: BSc(Hons) in Computing
+        university: Arden University
+        time: 2019 - 2021
+        details: |
+          Specialised in Computing such as Networking, Programming, Database Design, Cyber Security and e-Commerce Systems, utilising a range of tools and programming languages such as PHP, MySQL, HTML and CSS.
 
 experiences:
     title: Work Experience
