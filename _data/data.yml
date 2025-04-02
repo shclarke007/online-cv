@@ -2,6 +2,8 @@ sidebar:
     position: right
     about: False
     education: True
+    certifications: True
+    skills: True
 
     name: Shaneil Clarke
     tagline: Technology Professional | 10+ Years in Software Dev, Technical Support, and Customer Service
@@ -25,6 +27,26 @@ sidebar:
       info:
         - item: IP Law
         - item: Customer Support and Service
+
+     skills:
+      title: Skills
+      info:
+        - item: Problem Analysis
+        - item: Technical Support
+        - item: ICT
+        - item: Time Management
+        - item: Legal Research
+        - item: Communication
+
+    certifications:
+      title: Certifications
+      info:
+        - degree: Legal Research Foundation Certificate
+          university: LexisNexis Legal
+          time: 2025 
+        - degree: AWS Certified Cloud Practitioner
+          university: AWS
+          time: 2021 (Expired) 
 
 career-profile:
     title: Professional Summary
