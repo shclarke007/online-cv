@@ -28,12 +28,12 @@ sidebar:
       
     certifications:
       title: Certifications
-        - name: Legal Research Foundation Certificate
-          start: 2025
-          organization: LexisNexis Legal
-        - name: AWS Certified Cloud Practitioner
-          start: 2021
-          organization: Amazon Web Service
+      name: Legal Research Foundation Certificate
+      start: 2025
+      organization: LexisNexis Legal
+      name: AWS Certified Cloud Practitioner
+      start: 2021
+      organization: Amazon Web Service
 
 career-profile:
     title: Professional Summary
