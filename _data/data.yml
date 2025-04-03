@@ -28,13 +28,12 @@ sidebar:
       
     certifications:
       title: Certifications
-      info:
-        - degree: Legal Research Foundation Certificate
-          university: LexisNexis Legal
-          time: 2025 
-        - degree: AWS Certified Cloud Practitioner
-          university: AWS
-          time: 2021 (Expired) 
+        - name: Legal Research Foundation Certificate
+          start: 2025
+          organization: LexisNexis Legal
+        - name: AWS Certified Cloud Practitioner
+          start: 2021
+          organization: Amazon Web Service
 
 career-profile:
     title: Professional Summary
