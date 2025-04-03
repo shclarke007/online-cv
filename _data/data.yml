@@ -67,11 +67,19 @@ education:
 experiences:
     title: Work Experience
     info:
+      - role: Witness Service (court-based)
+        time: Future Volunteer (2025)
+        company: Citizen Advice, Burnley & Blackburn
+        details: |
+            - Support witnesses and their supporters by providing emotional reassurance, clear guidance, and practical information about court procedures.
+            - Show witnesses around the courtroom before a trial to help them feel more comfortable.
+            - Identify and signpost witnesses to additional support services if needed.
+
       - role: Winter Virtual Vacation Scheme
         time: Dec 2024 - Dec 2024
         company: Legal Cheek, Remote
         details: |
-            - **Achievements:** Successfully completed a week-long series of practice area-focused workshops in Reputation Management, Competition, Employment, Restructuring, Technology and Gaming Law
+            - **Achievements:** Successfully completed a week-long series of practice area-focused workshops in Reputation Management, Competition, Employment, Restructuring, Technology and Gaming Law.
 
       - role: Software Engineer (Backend)
         time: Nov 2023 - Sep 2024
@@ -80,7 +88,7 @@ experiences:
           - **Release Management:** Build it, ship it daily or weekly software releases for backend.
           - **Technical Support:** Participated in technical support rota, investigating bugs, and implementing fixes, ensuring high customer satisfaction.
           - **Technical Integration:** Connected and managed Learning Management Systems (LMS) with the Accredible platform and API using built-in LTI (versions 1.1 and 1.3) and other integrations to improve system features and user experience.
-          - **Achievements:** Successfully added clone and custom attribute search to public API to improve .
+          - **Achievements:** Successfully added clone and custom attribute search to public API to improve functionality.
 
       - role: Software Engineer (Fullstack)
         time: Oct 2019 - Oct 2023
