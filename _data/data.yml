@@ -10,7 +10,7 @@ sidebar:
     email: shaneilske@outlook.com
     timezone: BST
     citizenship: Jamaican / British
-    website: https://shclarke007.github.io/clarkesh
+    website: https://shclarke007.github.io/clarkesh/
     linkedin: shaneil-c-85284568
     github: shclarke007
 
@@ -21,14 +21,14 @@ sidebar:
           level: Native
           
     skills:
-      title: skills
-      info:
-        - item: Problem Analysis
-        - item: Technical Support
-        - item: ICT
-        - item: Time Management
-        - item: Legal Research
-        - item: Communication
+      title: My Skills
+        toolset:
+          - name: Problem Analysis
+          - name: Technical Support
+          - name: ICT
+          - name: Time Management
+          - name: Legal Research
+          - name: Communication
     
     interests:
       title: Interests
