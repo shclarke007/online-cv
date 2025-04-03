@@ -20,16 +20,6 @@ sidebar:
         - idiom: English
           level: Native
           
-    skills:
-      title: My Skills
-        toolset:
-          - name: Problem Analysis
-          - name: Technical Support
-          - name: ICT
-          - name: Time Management
-          - name: Legal Research
-          - name: Communication
-    
     interests:
       title: Interests
       info:
