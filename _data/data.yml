@@ -51,12 +51,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MA Law
+      - degree: MA Law (Commendation)
         university: The University of Law
-        time: 2025 - present
+        time: 2025 - 2026
         details: |
           Specialising in Law such as Tort, Criminal, English Legal System, Contract, Equity and Trusts, Administrative and Human Rights, Business and Land law, utilising a range of skills such as critical thinking, statutory interpretation and legal research.
-      - degree: BSc (Hons) in Computing
+      - degree: BSc (Hons) in Computing (2.1)
         university: Arden University
         time: 2018 - 2021
         details: |
@@ -67,6 +67,15 @@ education:
 experiences:
     title: Work Experience
     info:
+     - role: Contractor
+        time: Oct 2025 - Current
+        company: Miro, Hybrid
+        details: |
+          - **Automation:** Design and build secure automations for recurring IT processes using Workato, Jira, APIs, scripting, and AI-assisted tooling where appropriate.
+          - **Continuous Improvement:** Redesign manual workflows so they become observable, documented, reliable, and easier to operate at scale.
+          - **Compliance:** Support security and compliance activities, including access reviews, audit evidence collection, SOC 2, and ISO 27001-related processes.
+          - **Achievements:** Build internal chat bot to support and resolve 1st line technical user queries.
+
       - role: Software Engineer (Backend)
         time: Nov 2023 - Sep 2024
         company: Accredible, Remote
