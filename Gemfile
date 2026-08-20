@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "jekyll"
+gem "jekyll", "~> 4.2"
 gem 'github-pages'
 gem 'webrick'
 
